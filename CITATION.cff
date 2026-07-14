@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this research scaffold, please cite this repository."
-title: "Unlock-Driven Competence Gap Discovery: A Minimal Architecture for Developmental Agency"
-version: 0.1.0
+title: "Learning What to Learn Next: Sparse Intervention-Calibrated Developmental Leverage for Autonomous Curriculum Learning"
+version: 0.3.0
 date-released: 2026-07-14
 authors:
   - family-names: Zhou
